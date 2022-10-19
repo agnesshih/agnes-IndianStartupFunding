@@ -1,4 +1,3 @@
-# agnes-IndianStartupFunding
 ## **<span style="color:#023e8a;font-size:200%"><center>Indian Startup Funding</center></span>**
 ## **<center><span style="color:#FEF1FE;background-color:#023e8a;border-radius: 5px;padding: 5px">By: Yicheng Jiang, Bhagirath Bhardwaj, Agnes Shih, Paul Seiters, and Siddharth Bookinkere</span></center>**
 
